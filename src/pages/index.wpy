@@ -1,8 +1,13 @@
 <style lang="less">
+  .background-luxun {
+    background-image: url(/cos/images/luxun.jpg);
+  }
 </style>
 <template>
   <view class="container">
-    Hello world
+    <text>Hello world</text>
+    <view class="background-luxun">background image from cos</view>
+    <image class="luxun" mode="widthFix" src="/cos/images/luxun.jpg"></image>
   </view>
 </template>
 

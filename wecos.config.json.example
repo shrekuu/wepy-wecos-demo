@@ -1,0 +1,12 @@
+{
+  "cosBaseUrl": "https://abc-1234567890.cos.ap-beijing.myqcloud.com/mina/",
+  "appDir": "./cos/upload",
+  "backupDir": "./cos/images",
+  "cos": {
+    "secret_id": "",
+    "secret_key": "",
+    "bucket": "abc-1234567890",
+    "region": "ap-beijing",
+    "folder": "mina"
+  }
+}
